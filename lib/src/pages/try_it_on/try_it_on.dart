@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:selfview_app/pages/widget/custom_appbar.dart';
+import 'package:selfview_app/src/widgets/custom_appbar.dart';
 
 class TryItOnPage extends StatelessWidget {
   const TryItOnPage({super.key});

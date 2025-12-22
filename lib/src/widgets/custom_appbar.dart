@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:selfview_app/pages/design/images.dart';
+import 'package:selfview_app/src/pages/design/images.dart';
 
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget{
   const CustomAppBar({
